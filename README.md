@@ -105,6 +105,16 @@ The dataset includes the mean PISA score and its corresponding standard error.
 
 ---
 
+## File Overview
+
+This repository contains the following files:
+
+- `README.md` — Provides the project metadata, research context, methodology, data dictionary, access information, and documentation.
+- `pisa_2006_japan_korea.csv` — Contains the summary dataset used in this project, including mean scores and standard errors for Japan and Korea across reading, mathematics, and science.
+- `pisa_2006_source_report.pdf` — Contains the original reports exported from the OECD PISA International Data Explorer, including overall and gender-grouped results for all three subject areas.
+
+---
+
 ## Data
 
 | Subject | Country | Group | Mean Score | Standard Error |
