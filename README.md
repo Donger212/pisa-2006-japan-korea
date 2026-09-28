@@ -284,10 +284,10 @@ Another researcher can reproduce this dataset by:
 
 ## DOI
 
-DOI: To be added.
+DOI: https://doi.org/10.5281/zenodo.23021847
 
 ---
 
 ## Citation
 
-Chen, D. (2026). PISA 2006: Gender Differences in Reading, Mathematics, and Science in Japan and Korea. GitHub repository.
+Chen, D. (2026). PISA 2006: Gender Differences in Reading, Mathematics, and Science in Japan and Korea. Zenodo. https://doi.org/10.5281/zenodo.23021847
